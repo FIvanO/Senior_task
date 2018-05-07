@@ -11,6 +11,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/fivano/FIvanO/Senior_task/AyxCppTest/exercise5.cpp" "/home/fivano/FIvanO/Senior_task/AyxCppTest/bin/CMakeFiles/AyxCppTest.dir/exercise5.cpp.o"
   "/home/fivano/FIvanO/Senior_task/AyxCppTest/exercise6.cpp" "/home/fivano/FIvanO/Senior_task/AyxCppTest/bin/CMakeFiles/AyxCppTest.dir/exercise6.cpp.o"
   "/home/fivano/FIvanO/Senior_task/AyxCppTest/main.cpp" "/home/fivano/FIvanO/Senior_task/AyxCppTest/bin/CMakeFiles/AyxCppTest.dir/main.cpp.o"
+  "/home/fivano/FIvanO/Senior_task/AyxCppTest/polygon.cpp" "/home/fivano/FIvanO/Senior_task/AyxCppTest/bin/CMakeFiles/AyxCppTest.dir/polygon.cpp.o"
   "/home/fivano/FIvanO/Senior_task/AyxCppTest/spatial.cpp" "/home/fivano/FIvanO/Senior_task/AyxCppTest/bin/CMakeFiles/AyxCppTest.dir/spatial.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

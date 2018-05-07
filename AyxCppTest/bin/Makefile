@@ -312,6 +312,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/AyxCppTest.dir/build.make CMakeFiles/AyxCppTest.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+polygon.o: polygon.cpp.o
+
+.PHONY : polygon.o
+
+# target to build an object file
+polygon.cpp.o:
+	$(MAKE) -f CMakeFiles/AyxCppTest.dir/build.make CMakeFiles/AyxCppTest.dir/polygon.cpp.o
+.PHONY : polygon.cpp.o
+
+polygon.i: polygon.cpp.i
+
+.PHONY : polygon.i
+
+# target to preprocess a source file
+polygon.cpp.i:
+	$(MAKE) -f CMakeFiles/AyxCppTest.dir/build.make CMakeFiles/AyxCppTest.dir/polygon.cpp.i
+.PHONY : polygon.cpp.i
+
+polygon.s: polygon.cpp.s
+
+.PHONY : polygon.s
+
+# target to generate assembly for a file
+polygon.cpp.s:
+	$(MAKE) -f CMakeFiles/AyxCppTest.dir/build.make CMakeFiles/AyxCppTest.dir/polygon.cpp.s
+.PHONY : polygon.cpp.s
+
 spatial.o: spatial.cpp.o
 
 .PHONY : spatial.o
@@ -369,6 +396,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... polygon.o"
+	@echo "... polygon.i"
+	@echo "... polygon.s"
 	@echo "... spatial.o"
 	@echo "... spatial.i"
 	@echo "... spatial.s"
