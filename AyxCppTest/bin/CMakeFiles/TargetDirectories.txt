@@ -1,0 +1,3 @@
+/home/fivano/FIvanO/Senior_task/AyxCppTest/bin/CMakeFiles/edit_cache.dir
+/home/fivano/FIvanO/Senior_task/AyxCppTest/bin/CMakeFiles/rebuild_cache.dir
+/home/fivano/FIvanO/Senior_task/AyxCppTest/bin/CMakeFiles/AyxCppTest.dir
